@@ -11,3 +11,5 @@ VLSM consente di creare una struttura di rete gerarchica in cui le subnet più g
 Grazie alla flessibilità offerta da VLSM, è possibile aggiungere nuove subnet o ridimensionare subnet esistenti senza dover ridisegnare l'intera architettura di rete. Questo rende VLSM uno strumento potente per la gestione di reti in crescita.
 
 Con VLSM, è possibile utilizzare subnet mask diverse per ciascuna subnet, a seconda delle dimensioni della subnet stessa. Ciò offre un controllo più fine sulla configurazione di routing e consente una maggiore efficienza nella comunicazione all'interno della rete.
+Nell' esercizio affrontato in laboratorio lo scopo era di creare una rete composta da tre router, sei switch, sei PC.
+Ogni pc doveva essere configurato con l'ip e la subnet mask corrispondente alla slash notations assegnata.
